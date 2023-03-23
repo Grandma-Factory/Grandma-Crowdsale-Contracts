@@ -45,3 +45,8 @@ Deploy GrandmaTokenPreSale example:
 ```
 npx hardhat run --network sepolia scripts/deployGrandmaTokenPreSale.ts 
 ```
+
+
+## Security
+
+If you detect any security flaw, please contact us at **security@grandma.digital**
